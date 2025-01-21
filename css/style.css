@@ -1,0 +1,75 @@
+
+       body{
+           margin: 0;
+           padding: 0;
+       }
+       nav{
+           background-color: khaki;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           padding: 20px 0;
+           position: sticky;
+           top: 0;
+           z-index: 100;
+       }
+       nav ul{
+           display: flex ;
+           list-style-type: none;
+       }
+       nav ul li{
+           margin: 0 20px;
+       }
+       nav ul li a{
+           text-decoration: none;
+           font-size: 20px;
+           font-weight:bold;
+           color: darkslateblue;
+           padding: 10px 20px;
+           border-radius: 50px;
+       }
+       nav ul li a:hover{
+           background-color: #ff4800;
+           color: rgb(255, 255, 255);
+       }
+       .one{
+           background-color: yellow;
+           height: 200px;
+       }
+       .two{
+           background-color: deeppink;
+           height: 300px;
+       }
+       .three {
+           background-color: darkolivegreen;
+           height: 400px;
+           color: white;
+       }
+       #four{
+           background-color: blue;
+           height: 130px;
+           color: black;
+       }
+       #five{
+           background-color:darkviolet ;
+           height: 200px;
+       }
+       .background-image{
+           background-image : url("https://pixabay.com/photos/building-white-mordern-2654823/")
+
+       }
+       .image-one img{
+           height: 250px;
+           width: 400px;
+           margin: 20px;
+       }
+       .image-one img{
+           height: 250px;
+           width: 400px;
+           margin: 20px;
+       }
+       .image-one img{
+           height: 250px;
+           width: 400px;
+           margin: 20px;
+       }
